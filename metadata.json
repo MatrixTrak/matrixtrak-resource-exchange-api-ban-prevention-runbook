@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-05-23T12:20:10.888Z",
+  "generatedAt": "2026-05-23T12:44:38.002Z",
   "resourceSlug": "exchange-api-ban-prevention-runbook",
   "title": "Exchange API ban prevention runbook",
   "description": "Operational checklist to keep trading bots alive: auth hygiene, throttling, retries, circuit breakers, and incident steps.",
   "category": "Crypto Automation",
   "pillar": "",
+  "access": "free",
+  "sourcePublicPath": null,
+  "includedRepoFiles": [],
   "canonicalResourceUrl": "https://matrixtrak.com/resources/exchange-api-ban-prevention-runbook",
   "primaryPostSlugs": [],
   "secondaryRelatedPostSlugs": [

@@ -16,6 +16,13 @@ It is designed for quick implementation support, community sharing, and stable v
 
 Operational checklist to keep trading bots alive: auth hygiene, throttling, retries, circuit breakers, and incident steps.
 
+## Repository Contents
+
+- `resources/` contains shipped files copied from MatrixTrak public ship assets when available
+- `docs/post-mapping.md` maps this resource to related blog posts
+- `docs/resource-files.md` lists included files and source mapping
+- Included shipped files: none resolved from frontmatter source paths yet
+
 ## Who This Is For
 
 - Engineers handling production incidents and reliability gaps
